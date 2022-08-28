@@ -15,12 +15,6 @@ Interstellar Network is a team of developers, with the primary goal of ending in
 ### Contributors 
 <img src="https://contrib.rocks/image?repo=imbubbo/interstellar"/>
 
-### Credits
- **<a href="https://github.com/3kh0/3kh0.github.io">3kh0</a>**
- 
- **<a href="https://github.com/AlgebraHelper/AlgebraHelper-old">Algebra Helper</a>**
-
- **<a href="https://github.com/ozh/cookieclicker">OZH</a>**
 
 
 
